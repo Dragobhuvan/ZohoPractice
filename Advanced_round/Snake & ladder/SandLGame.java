@@ -1,0 +1,7 @@
+public class SandLGame
+{
+    public static void main(String[] args) {
+        SnakesNLadders game = new SnakesNLadders();
+        game.play();
+    }
+}
