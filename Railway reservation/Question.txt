@@ -1,0 +1,9 @@
+Build a railway reservation system
+One compartment has 63 seats
+Upper, lower, middle, RAC, WaitingList
+1. Booking
+2. Cancellation
+3. Print train details(It should be very presentable)
+4. Print tickets by booking pnr.
+
+Code should be done for any number of compartments.
